@@ -10,7 +10,7 @@ Below follows the Details:-
 
 | __KEY__ | __VALUE__ |
 | --------- | --------- |
-| __DevOps Organisation URL__ | https://dev.azure.com/AM0704 |
+| __DevOps Organisation URL__ | __https://dev.azure.com/AM0704__ |
 | __DevOps Organisation Owner__ | __AM@mitra008.onmicrosoft.com__ |
 | __DevOps Project__ | __AMCLOUD__ |
 | __DevOps Service Connection__ | __amcloud-cicd-service-connection__ |
